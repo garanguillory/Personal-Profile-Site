@@ -1,0 +1,143 @@
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Universal Page Styles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+body {
+  background: lightblue;
+}
+
+.top-nav {
+  border: none;
+  box-shadow: none;
+  background: lightblue;
+}
+
+h1,h2,h3,h4,h4,h6, nav{
+  font-family: 'Lato';
+  font-weight: 300;
+}
+
+nav .navbar-brand {
+  text-transform: capitalize;
+}
+
+nav a {
+  text-transform: lowercase;
+}
+
+p {
+  font-family: 'Roboto Slab';
+}
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+              Main Navbar
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+
+
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+              Footer Navbar
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+
+
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Index Page Styles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.alexandria, 
+.malaga,
+.denver {
+  padding-top: 5em;
+}
+
+
+.primary,
+.secondary,
+.tertiary {
+  padding-bottom: 4em;
+}
+
+
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Curriculum Vitae Page Styles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+
+.mean_stack li,
+.technologies_list li {
+  list-style: none;
+  display: inline-block;
+  padding-right: 5em;
+}
+
+.mean_stack li img,
+.technologies_list li img {
+  height: 10em;
+  width: 10em;
+}
+
+.mean_stack li:last-child,
+.technologies_list li:last-child {
+  padding-right: inherit;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Contact Page Styles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+
+
+.piper_garan {
+  height: 20em;
+  width: 20em;
+  border-radius: 50%; 
+}
+
+
+.contact {
+  list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
